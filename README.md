@@ -7,7 +7,7 @@
 
 第二步：创建uni-app项目，并将上面云函数项目的**appid**，填入到此项目里，即可关联并直接使用wx云函数。
 
-至此，就可以正常使用HbuilderX，愉快的开发啦~
+至此，就可以正常使用HbuilderX愉快的开发啦~
 
 为了方便理解，我将微信小程序云开发DMEO，转换成uni-app版本，大家可以参考一下（见文末：miniprogram_cloud.zip）。
 
